@@ -1,0 +1,6 @@
+ta-lib
+pandas
+smartapi-python
+pywhatkit
+
+
